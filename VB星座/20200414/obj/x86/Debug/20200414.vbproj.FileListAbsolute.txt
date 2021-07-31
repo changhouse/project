@@ -1,0 +1,66 @@
+C:\Users\Administrator\Desktop\20200414\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200414\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200414\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200414\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\20200414 顯示大於小於\20200414 new\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\20200421\20200414 new\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\20200428\20200414 new\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\製作過程\進度\20200428-接近完成\20200414 new\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\bin\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\bin\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\bin\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.vbproj.GenerateResource.Cache
+C:\Users\kitty\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\kitty\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\kitty\Desktop\20200505-程式完成\20200414 new\20200414\obj\x86\Debug\20200414.pdb
+C:\Users\Administrator\Desktop\20200512-最終版\20200414 new\20200414\obj\x86\Debug\20200414.exe
+C:\Users\Administrator\Desktop\20200512-最終版\20200414 new\20200414\obj\x86\Debug\20200414.xml
+C:\Users\Administrator\Desktop\20200512-最終版\20200414 new\20200414\obj\x86\Debug\20200414.pdb
