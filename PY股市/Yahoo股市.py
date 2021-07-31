@@ -52,7 +52,7 @@ class Stock:
 
         wb.save("yahoostock.xlsx")
 
-stock = Stock('2451', '2454', '2369','2330','0050')  # 建立Stock物件
+stock = Stock('2369','2330','0050')  # 建立物件
 
 stock.export(stock.scrape())  # 將爬取的股票當日行情資料匯出成Excel檔案
 
