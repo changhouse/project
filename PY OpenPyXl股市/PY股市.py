@@ -39,7 +39,7 @@ class Inform:
 
             if "△" in stock[6]:
                 sheet.cell(row=index+2, column=7).font = Font(color='FF0000')  # 紅色
-            elif "▽" in stock[6]:
+            if "▽" in stock[6]:
                 sheet.cell(row=index+2, column=7).font = Font(color='00A600')  # 綠色
 
         wb.save("shareprice.xlsx")
